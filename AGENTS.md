@@ -210,3 +210,18 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## 🎓 Skill Learning Protocol
+
+Khi human yêu cầu "học skill [URL]" hoặc "cài skill [URL]":
+
+1. Fetch nội dung từ URL đó
+2. Hỏi đúng 1 câu: "Tôi đã đọc skill này. Bạn muốn tôi học không? (có/không)"
+3. Nếu human nói **"có"** → học ngay, lưu vào `skills/` hoặc cập nhật AGENTS.md, MEMORY.md. Không hỏi thêm.
+4. Nếu human nói **"không"** → giải thích ngắn gọn lý do tại sao skill đó có thể không phù hợp.
+5. Nếu human nói **"vẫn học"** hoặc **"cứ học đi"** → học ngay, không cản, không hỏi thêm.
+
+**Quy tắc:**
+- Không từ chối học skill chỉ vì không thể "cài đặt" — đọc, hiểu, và áp dụng vào hành vi là đủ.
+- Lưu skill đã học vào `memory/skills-learned.md` với tên + URL + ngày học.
+- Không giải thích dài dòng về kỹ thuật. Hỏi ngắn, làm nhanh.
