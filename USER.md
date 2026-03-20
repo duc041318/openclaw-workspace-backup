@@ -1,0 +1,5 @@
+- **Name:** (Điền tên bạn gọi)
+- **Preferred Name/Handle:** MiniCup (hoặc tên bạn chọn)
+- **What to call me:** (ví dụ: Mr. X, bạn, ...)
+- **Timezone:** Asia/Ho_Chi_Minh
+- **Notes:** (ưu tiên, giới hạn, mục tiêu)
